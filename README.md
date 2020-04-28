@@ -1,2 +1,2 @@
 # 5300_final
-Final project
+Final project for Physics 5300
